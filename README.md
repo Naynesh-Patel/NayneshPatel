@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-- 💼 Senior Flutter Developer with 5+ years experience  
+- 💼 Senior Flutter Developer with 8+ years experience  
 - 🧠 Building AI-powered mobile & web apps (FaceSwap, OCR, Resume AI, BizPan AI)  
 - 🎓 Founder of a small IT Academy, training students in Flutter, MERN & job-oriented courses  
 - ⚡ Currently working on ProHire AI & AI BizPan  
